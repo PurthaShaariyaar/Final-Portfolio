@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Base Imports */
+@tailwind base;
+/* @import "./base/base"; */
+
+/* Component Imports */
+@tailwind components;
+
+/* Utility Imports */
+@tailwind utilities;
+
